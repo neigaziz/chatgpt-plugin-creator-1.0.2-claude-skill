@@ -1,0 +1,50 @@
+test_all_seven_sources_preserved (test_skill_package.SkillPackage.test_all_seven_sources_preserved) ... ok
+test_authored_markdown_links_exist (test_skill_package.SkillPackage.test_authored_markdown_links_exist) ... ok
+test_core_frontmatter_and_size (test_skill_package.SkillPackage.test_core_frontmatter_and_size) ... ok
+test_examples_and_requirements_exist (test_skill_package.SkillPackage.test_examples_and_requirements_exist) ... ok
+test_failed_fetches_disclosed (test_skill_package.SkillPackage.test_failed_fetches_disclosed) ... ok
+test_model_tests_not_misreported (test_skill_package.SkillPackage.test_model_tests_not_misreported) ... ok
+test_schemas_official_ids (test_skill_package.SkillPackage.test_schemas_official_ids) ... ok
+test_successful_live_sources_preserved (test_skill_package.SkillPackage.test_successful_live_sources_preserved) ... ok
+test_00_cli_exists (test_tools.Tools.test_00_cli_exists) ... ok
+test_duplicate_json_keys (test_tools.Tools.test_duplicate_json_keys) ... ok
+test_duplicate_skill (test_tools.Tools.test_duplicate_skill) ... ok
+test_duplicate_yaml (test_tools.Tools.test_duplicate_yaml) ... ok
+test_empty_skill_body (test_tools.Tools.test_empty_skill_body) ... ok
+test_headers (test_tools.Tools.test_headers) ... ok
+test_hidden_junk (test_tools.Tools.test_hidden_junk) ... ok
+test_invalid_semver (test_tools.Tools.test_invalid_semver) ... ok
+test_invalid_yaml (test_tools.Tools.test_invalid_yaml) ... ok
+test_link_outside_skill (test_tools.Tools.test_link_outside_skill) ... ok
+test_localhost (test_tools.Tools.test_localhost) ... ok
+test_long_combined_identity (test_tools.Tools.test_long_combined_identity) ... ok
+test_minimal_portable_passes (test_tools.Tools.test_minimal_portable_passes) ... ok
+test_missing_asset (test_tools.Tools.test_missing_asset) ... ok
+test_missing_link (test_tools.Tools.test_missing_link) ... ok
+test_missing_manifest (test_tools.Tools.test_missing_manifest) ... ok
+test_missing_skill (test_tools.Tools.test_missing_skill) ... ok
+test_one_wrapper (test_tools.Tools.test_one_wrapper) ... ok
+test_pack_and_no_overwrite (test_tools.Tools.test_pack_and_no_overwrite) ... ok
+test_pack_blocks_invalid (test_tools.Tools.test_pack_blocks_invalid) ... ok
+test_placeholder (test_tools.Tools.test_placeholder) ... ok
+test_private_ip (test_tools.Tools.test_private_ip) ... ok
+test_public_requires_listing (test_tools.Tools.test_public_requires_listing) ... ok
+test_remote_mcp_static_only (test_tools.Tools.test_remote_mcp_static_only) ... ok
+test_schema_disallows_codex_fields (test_tools.Tools.test_schema_disallows_codex_fields) ... ok
+test_secret (test_tools.Tools.test_secret) ... ok
+test_symlink (test_tools.Tools.test_symlink) ... ok
+test_unknown_auth_schema (test_tools.Tools.test_unknown_auth_schema) ... ok
+test_wrapper_sibling (test_tools.Tools.test_wrapper_sibling) ... ok
+test_wrong_extension_type (test_tools.Tools.test_wrong_extension_type) ... ok
+test_zip_backslash (test_tools.Tools.test_zip_backslash) ... ok
+test_zip_case_collision (test_tools.Tools.test_zip_case_collision) ... ok
+test_zip_duplicate (test_tools.Tools.test_zip_duplicate) ... ok
+test_zip_roundtrip (test_tools.Tools.test_zip_roundtrip) ... ok
+test_zip_symlink (test_tools.Tools.test_zip_symlink) ... ok
+test_zip_traversal (test_tools.Tools.test_zip_traversal) ... ok
+test_zip_type_conflict (test_tools.Tools.test_zip_type_conflict) ... ok
+
+----------------------------------------------------------------------
+Ran 45 tests in 5.201s
+
+OK

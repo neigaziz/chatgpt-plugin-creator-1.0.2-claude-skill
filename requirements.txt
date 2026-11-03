@@ -1,0 +1,3 @@
+# Validator/packager only. Install manually with approval in your chosen virtual environment.
+jsonschema>=4.18,<5
+PyYAML>=6.0,<7

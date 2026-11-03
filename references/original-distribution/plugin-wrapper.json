@@ -1,0 +1,26 @@
+{
+  "name": "chatgpt-plugin-creator",
+  "version": "1.0.1",
+  "description": "Create task-specific ChatGPT plugin archives from a purpose and intended use cases, with source files and validation guidance.",
+  "author": {
+    "name": "Personal workspace"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "ChatGPT Plugin Creator",
+    "shortDescription": "Build plugins from your goals",
+    "longDescription": "Describe the purpose and intended use cases. This skill authors plugin instructions, resources and archive files where the host provides file-generation tools. It includes validation and packaging helpers, but does not itself grant code execution, hosting, authentication or publishing permissions.",
+    "developerName": "Personal workspace",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Author plugin workflows",
+      "Prepare plugin files",
+      "Validate archive structure"
+    ],
+    "defaultPrompt": [
+      "Create a plugin from this purpose and these intended use cases."
+    ],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg"
+  }
+}

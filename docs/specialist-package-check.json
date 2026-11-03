@@ -1,0 +1,346 @@
+{
+  "status": "fail",
+  "errors": [
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: skill-manifest.json",
+      "location": "skill-manifest.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: LICENSE",
+      "location": "LICENSE"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: adapters/gpt-5.6-sol.md",
+      "location": "adapters/gpt-5.6-sol.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: adapters/claude-agent-skills.md",
+      "location": "adapters/claude-agent-skills.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/capability-discovery.md",
+      "location": "workflows/capability-discovery.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/skill-design.md",
+      "location": "workflows/skill-design.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/skill-build.md",
+      "location": "workflows/skill-build.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/skill-audit.md",
+      "location": "workflows/skill-audit.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/skill-refactor.md",
+      "location": "workflows/skill-refactor.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/integration-design.md",
+      "location": "workflows/integration-design.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/security-review.md",
+      "location": "workflows/security-review.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/evaluation-design.md",
+      "location": "workflows/evaluation-design.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: workflows/release-and-installation.md",
+      "location": "workflows/release-and-installation.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/responsibility-model.md",
+      "location": "references/responsibility-model.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/skill-architecture.md",
+      "location": "references/skill-architecture.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/context-engineering.md",
+      "location": "references/context-engineering.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/tool-mcp-api-rag.md",
+      "location": "references/tool-mcp-api-rag.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/reliability-patterns.md",
+      "location": "references/reliability-patterns.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/security-model.md",
+      "location": "references/security-model.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/autonomy-framework.md",
+      "location": "references/autonomy-framework.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: references/platform-compatibility.md",
+      "location": "references/platform-compatibility.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: schemas/skill-manifest.schema.json",
+      "location": "schemas/skill-manifest.schema.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: schemas/tool-contract.schema.json",
+      "location": "schemas/tool-contract.schema.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: schemas/evaluation-case.schema.json",
+      "location": "schemas/evaluation-case.schema.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: schemas/audit-report.schema.json",
+      "location": "schemas/audit-report.schema.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/skill-template.md",
+      "location": "templates/skill-template.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/needs-analysis.md",
+      "location": "templates/needs-analysis.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/architecture-spec.md",
+      "location": "templates/architecture-spec.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/threat-model.md",
+      "location": "templates/threat-model.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/evaluation-plan.md",
+      "location": "templates/evaluation-plan.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/tool-contract.json",
+      "location": "templates/tool-contract.json"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/release-checklist.md",
+      "location": "templates/release-checklist.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: templates/output-template.md",
+      "location": "templates/output-template.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: scripts/lib.mjs",
+      "location": "scripts/lib.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: scripts/lint-skill.mjs",
+      "location": "scripts/lint-skill.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: scripts/validate-package.mjs",
+      "location": "scripts/validate-package.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: scripts/run-evaluations.mjs",
+      "location": "scripts/run-evaluations.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/package-structure.test.mjs",
+      "location": "tests/package-structure.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/activation-routing.test.mjs",
+      "location": "tests/activation-routing.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/progressive-disclosure.test.mjs",
+      "location": "tests/progressive-disclosure.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/security-controls.test.mjs",
+      "location": "tests/security-controls.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/approval-gates.test.mjs",
+      "location": "tests/approval-gates.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: tests/platform-adapters.test.mjs",
+      "location": "tests/platform-adapters.test.mjs"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: docs/installation.md",
+      "location": "docs/installation.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: docs/authoring-guide.md",
+      "location": "docs/authoring-guide.md"
+    },
+    {
+      "code": "PATH_MISSING",
+      "message": "Required path is missing: docs/troubleshooting.md",
+      "location": "docs/troubleshooting.md"
+    },
+    {
+      "code": "JSON_INVALID",
+      "message": "Invalid manifest JSON: ENOENT: no such file or directory, open '/private/var/folders/fd/l9l8x7sx3gs62v2bgxtlwync0000gn/T/chatbox-sandbox/95a54ce6-3bcf-4888-b0e2-405270116575/chatgpt-plugin-creator/skill-manifest.json'",
+      "location": "skill-manifest.json"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: 8C385396-450A-4B3B-A145-97A508DF9E26.png",
+      "location": "references/sources/local/chatgpt_plugin_archive_tutorial_conversation.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/mcp-server.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator-invoke.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/codex-local-plugin-light.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/skills.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/submission-errors.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/submission.md"
+    }
+  ],
+  "warnings": [],
+  "checks": {
+    "requiredPaths": {
+      "expected": 49,
+      "missing": 46
+    },
+    "lint": {
+      "status": "fail",
+      "errors": [
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: 8C385396-450A-4B3B-A145-97A508DF9E26.png",
+          "location": "references/sources/local/chatgpt_plugin_archive_tutorial_conversation.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: /llms.txt",
+          "location": "references/sources/official/mcp-server.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: /llms.txt",
+          "location": "references/sources/official/packaging.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator.png>",
+          "location": "references/sources/official/packaging.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator-invoke.png>",
+          "location": "references/sources/official/packaging.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/codex-local-plugin-light.png>",
+          "location": "references/sources/official/packaging.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: /llms.txt",
+          "location": "references/sources/official/skills.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: /llms.txt",
+          "location": "references/sources/official/submission-errors.md"
+        },
+        {
+          "code": "LINK_BROKEN",
+          "message": "Broken local link: /llms.txt",
+          "location": "references/sources/official/submission.md"
+        }
+      ],
+      "warnings": [],
+      "metrics": {
+        "coreBytes": 10675
+      }
+    }
+  }
+}

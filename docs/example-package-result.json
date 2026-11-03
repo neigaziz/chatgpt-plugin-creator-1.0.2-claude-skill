@@ -1,0 +1,26 @@
+{
+  "status": "pass",
+  "archive": "document-summary-1.0.0-upload.zip",
+  "bytes": 2722,
+  "sha256": "0a67c58d983e6c52edb15229030f1f868eb40e9fb319d9775e7def165700f28b",
+  "files": 3,
+  "warnings": [
+    {
+      "code": "IMAGE_REVIEW",
+      "message": "Check image dimensions, square icons, SVG safety and visual quality manually",
+      "file": "assets/icon.svg"
+    },
+    {
+      "code": "IMAGE_REVIEW",
+      "message": "Check image dimensions, square icons, SVG safety and visual quality manually",
+      "file": "assets/icon.svg"
+    }
+  ],
+  "not_checked": [
+    "ChatGPT upload and permission checks",
+    "OpenAI security scans and review",
+    "MCP protocol, authorization and endpoint liveness",
+    "model activation and task quality",
+    "all possible OpenAI extension fields and UI rendering"
+  ]
+}

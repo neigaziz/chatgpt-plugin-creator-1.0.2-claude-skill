@@ -1,0 +1,51 @@
+{
+  "status": "pass",
+  "profile": "workspace",
+  "scope": "offline portable creator profile; not OpenAI acceptance",
+  "errors": [],
+  "warnings": [
+    {
+      "code": "IMAGE_REVIEW",
+      "message": "Check image dimensions, square icons, SVG safety and visual quality manually",
+      "file": "assets/icon.svg"
+    },
+    {
+      "code": "IMAGE_REVIEW",
+      "message": "Check image dimensions, square icons, SVG safety and visual quality manually",
+      "file": "assets/icon.svg"
+    }
+  ],
+  "files": [
+    {
+      "path": "assets/icon.svg",
+      "bytes": 333,
+      "sha256": "68a153c663ee6903b828773130d6e5b6629da5ca34b8ea5d1cd25db32d7c7e00"
+    },
+    {
+      "path": "plugin.json",
+      "bytes": 839,
+      "sha256": "bf6b106ae5a7e53fcfb6f24afae2cc679b841bc5f50510c29d5d071b27676034"
+    },
+    {
+      "path": "skills/summarize/SKILL.md",
+      "bytes": 3716,
+      "sha256": "aa0bc442dd5411459d870a578ffbbe90fa569a372a0497212261761352aead3c"
+    }
+  ],
+  "checks": [
+    "JSON Schema: plugin.json",
+    "bounded archive/path/type/size inspection",
+    "SHA-256 file inventory",
+    "credential heuristics",
+    "YAML metadata and relative Markdown links",
+    "portable manifest and component checks",
+    "workspace preparation subset"
+  ],
+  "not_checked": [
+    "ChatGPT upload and permission checks",
+    "OpenAI security scans and review",
+    "MCP protocol, authorization and endpoint liveness",
+    "model activation and task quality",
+    "all possible OpenAI extension fields and UI rendering"
+  ]
+}

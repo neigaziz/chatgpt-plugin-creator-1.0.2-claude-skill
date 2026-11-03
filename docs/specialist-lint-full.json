@@ -1,0 +1,54 @@
+{
+  "status": "fail",
+  "errors": [
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: 8C385396-450A-4B3B-A145-97A508DF9E26.png",
+      "location": "references/sources/local/chatgpt_plugin_archive_tutorial_conversation.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/mcp-server.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/plugin-creator-invoke.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: <https://developers.openai.com/images/codex/plugins/codex-local-plugin-light.png>",
+      "location": "references/sources/official/packaging.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/skills.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/submission-errors.md"
+    },
+    {
+      "code": "LINK_BROKEN",
+      "message": "Broken local link: /llms.txt",
+      "location": "references/sources/official/submission.md"
+    }
+  ],
+  "warnings": [],
+  "metrics": {
+    "coreBytes": 10675
+  }
+}

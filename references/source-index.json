@@ -1,0 +1,129 @@
+{
+  "capturedAt": "2026-10-31T13:57:14.814Z",
+  "entries": [
+    {
+      "path": "references/sources/local/chatgpt_learn_build_plugins.md",
+      "origin": "chatgpt_learn_build_plugins.md",
+      "kind": "user-supplied",
+      "bytes": 14472,
+      "sha256": "83aded8de77093d0e9e11283f86c56a000c6368a44bd97d0bab6283a0569b723",
+      "capturedAt": "2026-10-31T13:57:13.133Z"
+    },
+    {
+      "path": "references/sources/local/chatgpt_plugin_archive_tutorial_conversation.md",
+      "origin": "chatgpt_plugin_archive_tutorial_conversation.md",
+      "kind": "user-supplied",
+      "bytes": 32902,
+      "sha256": "9c7745a0f51a8ee3c41599207f80e5aa3ecb854cd28e5577508e50855dc2f386",
+      "capturedAt": "2026-10-31T13:57:13.136Z"
+    },
+    {
+      "path": "references/sources/local/chatgpt_plugin_upload_tutorial.md",
+      "origin": "chatgpt_plugin_upload_tutorial.md",
+      "kind": "user-supplied",
+      "bytes": 21057,
+      "sha256": "62c8e336cbb7fc723d75bce1c5fcd29210b284b6a48c47b26ab01f23c59009b9",
+      "capturedAt": "2026-10-31T13:57:13.137Z"
+    },
+    {
+      "path": "references/sources/local/openai_apps_sdk_examples_repository.md",
+      "origin": "openai_apps_sdk_examples_repository.md",
+      "kind": "user-supplied",
+      "bytes": 13683,
+      "sha256": "a64cfe6cda7929704d4bcec2fc4e324deeeb633eafbc517baf5d073f067dafcd",
+      "capturedAt": "2026-10-31T13:57:13.138Z"
+    },
+    {
+      "path": "references/sources/local/openai_plugins_build_skills.md",
+      "origin": "openai_plugins_build_skills.md",
+      "kind": "user-supplied",
+      "bytes": 5759,
+      "sha256": "201c6e4968cc100ae8caff769ae61f04600e0c7550cde3af21c6260588d7946a",
+      "capturedAt": "2026-10-31T13:57:13.139Z"
+    },
+    {
+      "path": "references/sources/local/openai_plugins_deploy_submission.md",
+      "origin": "openai_plugins_deploy_submission.md",
+      "kind": "user-supplied",
+      "bytes": 44469,
+      "sha256": "49cb41e5d3484869083db724fc2a0d8b2c7ff5b4e60bbabcfbcd8eb8861a3aa9",
+      "capturedAt": "2026-10-31T13:57:13.140Z"
+    },
+    {
+      "path": "references/sources/local/openai_plugins_package_your_plugin.md",
+      "origin": "openai_plugins_package_your_plugin.md",
+      "kind": "user-supplied",
+      "bytes": 4305,
+      "sha256": "b69dc36e1c358272478cf9b60a608ffd740232a4d8f001ccc3b78a989c7807a6",
+      "capturedAt": "2026-10-31T13:57:13.140Z"
+    },
+    {
+      "path": "schemas/plugin.schema.json",
+      "origin": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+      "kind": "official-live",
+      "bytes": 1805,
+      "sha256": "0a4aad95ce337878ad38802ebf0daa3fde76abe3f65400c86bcbb1ec0b3ab883",
+      "capturedAt": "2026-10-31T13:57:13.545Z"
+    },
+    {
+      "path": "schemas/mcp.schema.json",
+      "origin": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+      "kind": "official-live",
+      "bytes": 3408,
+      "sha256": "6539175bfcdf43085855183e86da40ea94b166547a72b47ae9a0a390516d3acb",
+      "capturedAt": "2026-10-31T13:57:13.642Z"
+    },
+    {
+      "path": "references/sources/official/packaging.md",
+      "origin": "https://developers.openai.com/plugins/build/plugins.md",
+      "kind": "official-live",
+      "bytes": 38054,
+      "sha256": "c7e7ffa49fdcf8410077cab086186293d4f845fa643488e874493ac4618f87bf",
+      "capturedAt": "2026-10-31T13:57:13.828Z"
+    },
+    {
+      "path": "references/sources/official/skills.md",
+      "origin": "https://developers.openai.com/plugins/build/skills.md",
+      "kind": "official-live",
+      "bytes": 5309,
+      "sha256": "8ace07ca0432b29e924da01cb3878b43c907bfa9bf6e009fca99d91026cbb050",
+      "capturedAt": "2026-10-31T13:57:14.023Z"
+    },
+    {
+      "path": "references/sources/official/submission.md",
+      "origin": "https://developers.openai.com/plugins/deploy/submission.md",
+      "kind": "official-live",
+      "bytes": 55745,
+      "sha256": "6e1d85f2969a9d38fca003757e796610b980893e95342808487d39bb7194c005",
+      "capturedAt": "2026-10-31T13:57:14.231Z"
+    },
+    {
+      "path": "references/sources/official/submission-errors.md",
+      "origin": "https://developers.openai.com/plugins/deploy/submission-errors.md",
+      "kind": "official-live",
+      "bytes": 74432,
+      "sha256": "0e2960e5ebc24ca54d95b299d8b28e3de1b7f8635478bc1ccbacdb8575ac605e",
+      "capturedAt": "2026-10-31T13:57:14.302Z"
+    },
+    {
+      "path": "references/sources/official/mcp-server.md",
+      "origin": "https://developers.openai.com/plugins/build/mcp-server.md",
+      "kind": "official-live",
+      "bytes": 11695,
+      "sha256": "cb8f4bc4c80bd8b9df1f06b578c3bab4ac9753131f11e91e6a53b6f199af01f3",
+      "capturedAt": "2026-10-31T13:57:14.402Z"
+    },
+    {
+      "path": "references/sources/official/authentication.md",
+      "origin": "https://developers.openai.com/plugins/build/authentication.md",
+      "status": "blocked",
+      "error": "HTTP 404"
+    },
+    {
+      "path": "references/sources/official/guidelines.md",
+      "origin": "https://developers.openai.com/plugins/resources/guidelines.md",
+      "status": "blocked",
+      "error": "HTTP 404"
+    }
+  ]
+}

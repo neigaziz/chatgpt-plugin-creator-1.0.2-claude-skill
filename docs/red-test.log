@@ -1,0 +1,15 @@
+test_00_cli_exists (test_tools.Tools.test_00_cli_exists) ... FAIL
+
+======================================================================
+FAIL: test_00_cli_exists (test_tools.Tools.test_00_cli_exists)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/private/var/folders/fd/l9l8x7sx3gs62v2bgxtlwync0000gn/T/chatbox-sandbox/95a54ce6-3bcf-4888-b0e2-405270116575/chatgpt-plugin-creator/tests/test_tools.py", line 52, in test_00_cli_exists
+    def test_00_cli_exists(self): self.assertTrue(SCRIPT.is_file(), 'validator not implemented yet')
+                                  ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: False is not true : validator not implemented yet
+
+----------------------------------------------------------------------
+Ran 1 test in 0.004s
+
+FAILED (failures=1)

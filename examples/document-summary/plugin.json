@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "document-summary",
+  "version": "1.0.0",
+  "description": "Summarize supplied documents into an overview, evidence-linked key points and open questions.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Document Summary",
+        "shortDescription": "Evidence-linked summaries",
+        "longDescription": "Summarize documents supplied in chat. Mark missing information and distinguish the source text from interpretation. This plugin does not retrieve private external documents.",
+        "category": "Productivity",
+        "defaultPrompt": ["Summarize the attached document and identify missing information."],
+        "logo": "./assets/icon.svg",
+        "composerIcon": "./assets/icon.svg"
+      }
+    }
+  }
+}
